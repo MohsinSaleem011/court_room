@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961487493785",
+    "project_id": "court-room-19683",
+    "storage_bucket": "court-room-19683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961487493785:android:673a0f91f989c2cb7a3608",
+        "android_client_info": {
+          "package_name": "com.example.court_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961487493785-sok4ul12ot0kimnef4fmackijleh90bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0F7s_HnY-fFPiqxxbL0L2BXqjE4VJfbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961487493785-sok4ul12ot0kimnef4fmackijleh90bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
